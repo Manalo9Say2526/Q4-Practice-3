@@ -1,0 +1,14 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    background-color: #188FA7;
+    width: 85%;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
